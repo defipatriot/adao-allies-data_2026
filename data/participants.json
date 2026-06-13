@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-06-13T23:20:48.009Z",
+  "capturedAt": "2026-06-13T23:26:53.535Z",
   "epoch": {
     "number": 189,
     "starts_at": "2026-06-08T00:00:00.000Z",
     "ends_at": "2026-06-15T00:00:00.000Z",
-    "progress_pct": 85.32539880952382
+    "progress_pct": 85.38583796296297
   },
   "allies": [
     {
@@ -1764,8 +1764,1707 @@
     {
       "slug": "liondao",
       "name": "Lion DAO",
-      "total_staker_count": 0,
-      "stakers": []
+      "total_staker_count": 283,
+      "stakers": [
+        {
+          "address": "terra1vklefn7n6cchn0u962w3gaszr4vf52wjvd4y95t2sydwpmpdtszsqvk9wy",
+          "name": null,
+          "stake_raw": "125406494359735109",
+          "vp_pct_of_dao": 56.68099351302561
+        },
+        {
+          "address": "terra1nrt0tcqc3kazztzfhyd2pf9q59p49ywu9g36w8",
+          "name": "RyanLion",
+          "stake_raw": "60002000000000000",
+          "vp_pct_of_dao": 27.119592092357625
+        },
+        {
+          "address": "terra1hr8zsfpch47qygc96c8e6rzkd2t7mafqx77ulw",
+          "name": "DeFi_Patriot",
+          "stake_raw": "1599682106157489",
+          "vp_pct_of_dao": 0.7230213358960472
+        },
+        {
+          "address": "terra1d0zzmhwgs79u7fr98sgnmp7f9t2x2wj6mmnu2s",
+          "name": null,
+          "stake_raw": "1420582424875485",
+          "vp_pct_of_dao": 0.6420721958633949
+        },
+        {
+          "address": "terra1d73fvpwm8stsy5y9epfn6fedm74egn2d85xg7t",
+          "name": null,
+          "stake_raw": "1129157341487693",
+          "vp_pct_of_dao": 0.5103544300062864
+        },
+        {
+          "address": "terra1vlwmp6e2waq24rmt72vwjy0kkn8u0tcjvavzuq",
+          "name": null,
+          "stake_raw": "1128179798908199",
+          "vp_pct_of_dao": 0.5099126021337356
+        },
+        {
+          "address": "terra1vtqmqst4dnkyt6ajfpzlyd48jsel9cvy2myq6j",
+          "name": null,
+          "stake_raw": "1100000000000000",
+          "vp_pct_of_dao": 0.49717594916158436
+        },
+        {
+          "address": "terra1aex4h5d2qrxg4f2jq9lsejhm9d0jeshnx40xt4",
+          "name": "El.Blanko",
+          "stake_raw": "1076103515096696",
+          "vp_pct_of_dao": 0.4863752604675611
+        },
+        {
+          "address": "terra1gp88fnzd4uvk4t5plagz762a29f88qgew3kfa2",
+          "name": "MojoStudio",
+          "stake_raw": "1063950155126578",
+          "vp_pct_of_dao": 0.48088220748697397
+        },
+        {
+          "address": "terra1w7ayljrk3hf9xnvsg042l2vdyuyptd7wf2rpx8",
+          "name": null,
+          "stake_raw": "1045443407629053",
+          "vp_pct_of_dao": 0.472517562256996
+        },
+        {
+          "address": "terra1l0jeppq8v3rt6dxhch5m4ydcmgfmvpxl59mhll",
+          "name": "Fci",
+          "stake_raw": "1034769178809591",
+          "vp_pct_of_dao": 0.46769304421619234
+        },
+        {
+          "address": "terra1xaujrunqtuxhpvr0hc8ky7tmg4cjm8sg4as6w5",
+          "name": "Alphahyperion",
+          "stake_raw": "1008811266920754",
+          "vp_pct_of_dao": 0.45596063559656935
+        },
+        {
+          "address": "terra1x0d0pp36t00k7nhcrwhm9h8jj7d2f76n8aydgz",
+          "name": null,
+          "stake_raw": "1000000000331950",
+          "vp_pct_of_dao": 0.4519781357514745
+        },
+        {
+          "address": "terra157ynvwu6p8sdsznvp39fwcy7xfjxpmv6th3vd7",
+          "name": null,
+          "stake_raw": "1000000000000000",
+          "vp_pct_of_dao": 0.45197813560144035
+        },
+        {
+          "address": "terra17n9hcuath7awhdlm5cx845202hatf7gmz227uw",
+          "name": null,
+          "stake_raw": "1000000000000000",
+          "vp_pct_of_dao": 0.45197813560144035
+        },
+        {
+          "address": "terra1r4xkt78nyz22v37dsxc3ff24ecmhmnm48kfzjj",
+          "name": "lionchild",
+          "stake_raw": "1000000000000000",
+          "vp_pct_of_dao": 0.45197813560144035
+        },
+        {
+          "address": "terra1sffd4efk2jpdt894r04qwmtjqrrjfc52tmj6vkzjxqhd8qqu2drs3m5vzm",
+          "name": null,
+          "stake_raw": "1000000000000000",
+          "vp_pct_of_dao": 0.45197813560144035
+        },
+        {
+          "address": "terra1694vlvw9m2cayk6dq4pg25xyz0uuv4fcs97g5k",
+          "name": null,
+          "stake_raw": "877440762370959",
+          "vp_pct_of_dao": 0.3965840398771325
+        },
+        {
+          "address": "terra1x2rutlpugtxllqkn7ehxcu77r8qeydp26rerzn",
+          "name": "GHLizard",
+          "stake_raw": "729758555928798",
+          "vp_pct_of_dao": 0.32983491154789757
+        },
+        {
+          "address": "terra1lslaktm620qaqpu6qx0s5k5q7adsvw5jvndzaf",
+          "name": null,
+          "stake_raw": "693830595277318",
+          "vp_pct_of_dao": 0.3135962588766797
+        },
+        {
+          "address": "terra1kknt9fkk79d7hk3xpe3jv2j42fnlvpfflg4aht",
+          "name": "Brice",
+          "stake_raw": "602708952035133",
+          "vp_pct_of_dao": 0.27241126845113733
+        },
+        {
+          "address": "terra146rmw8qdyf06q0adm9etmauahlss2czqgpccp6",
+          "name": null,
+          "stake_raw": "600000000000000",
+          "vp_pct_of_dao": 0.2711868813608642
+        },
+        {
+          "address": "terra14tdsywzgsqd3kctlvyx6nz0dyhdeuypx7keleg",
+          "name": "Christy",
+          "stake_raw": "548631746218749",
+          "vp_pct_of_dao": 0.24796955378771274
+        },
+        {
+          "address": "terra1ues856elgspt5qhrzeks8jryd3a7jjyxxh4qap",
+          "name": null,
+          "stake_raw": "500000000000000",
+          "vp_pct_of_dao": 0.22598906780072017
+        },
+        {
+          "address": "terra1hzyzys3s7s7xsls5gvsta3z3ylcy7fjcnpgmas",
+          "name": null,
+          "stake_raw": "443103866328224",
+          "vp_pct_of_dao": 0.20027325938082055
+        },
+        {
+          "address": "terra1nap4h4wz86cens8lvnu2kr2lrd463thgjffjl4",
+          "name": null,
+          "stake_raw": "436335560880569",
+          "vp_pct_of_dao": 0.19721413330340837
+        },
+        {
+          "address": "terra15rxcrh6jde9gyj8ht8kkmkj5h32d2kfk22ezgy",
+          "name": null,
+          "stake_raw": "398478717013257",
+          "vp_pct_of_dao": 0.18010366759250585
+        },
+        {
+          "address": "terra19l4sty77wumupqqeuy2e5xu42c52efaqkvtrr3",
+          "name": null,
+          "stake_raw": "382238072187964",
+          "vp_pct_of_dao": 0.17276325122340472
+        },
+        {
+          "address": "terra15rrtnfddzmarc65f7qztwvjrenpu4lgmhmj9pa",
+          "name": "LOTOX",
+          "stake_raw": "360000000000000",
+          "vp_pct_of_dao": 0.16271212881651853
+        },
+        {
+          "address": "terra13qjxhnw98lm36rxc9yjakkmulhpv7zctdc5zlz",
+          "name": "4719",
+          "stake_raw": "344473134625642",
+          "vp_pct_of_dao": 0.15569432515288162
+        },
+        {
+          "address": "terra1s0xk5m95ldmsqnyq6qh2h0nlyqtkwzu45y55x5",
+          "name": null,
+          "stake_raw": "311773527243924",
+          "vp_pct_of_dao": 0.14091481757359361
+        },
+        {
+          "address": "terra1fye4el7alj0zekd5eqr29053unqqwjhaymnng3",
+          "name": null,
+          "stake_raw": "308500946989676",
+          "vp_pct_of_dao": 0.13943568285167254
+        },
+        {
+          "address": "terra1004ntprq3wc26u9sz2fjmsx2twhuaxnpktvq88",
+          "name": null,
+          "stake_raw": "288972094012082",
+          "vp_pct_of_dao": 0.13060906829242497
+        },
+        {
+          "address": "terra1ajxjcuft62qesn0c6en63vsl4l4aptl884mxz4",
+          "name": null,
+          "stake_raw": "277526668824373",
+          "vp_pct_of_dao": 0.12543598635491848
+        },
+        {
+          "address": "terra1rk6hzjndt6wtpgc846gystt5604ykgua4lrsxh",
+          "name": null,
+          "stake_raw": "260734107948191",
+          "vp_pct_of_dao": 0.11784611599812807
+        },
+        {
+          "address": "terra15zpetcnjmg5p53na6rvyp6vvm7gnf0qcfrn8p9",
+          "name": null,
+          "stake_raw": "256279264660045",
+          "vp_pct_of_dao": 0.11583262423435524
+        },
+        {
+          "address": "terra1g655nxkfvgaayk0yw99zykgeezvyd2w5n4khyr",
+          "name": null,
+          "stake_raw": "250000000000000",
+          "vp_pct_of_dao": 0.11299453390036009
+        },
+        {
+          "address": "terra1lc43y5407lus9s9tw9yq4qwdq4cgjs33p6fr7c",
+          "name": null,
+          "stake_raw": "235000000000000",
+          "vp_pct_of_dao": 0.10621486186633848
+        },
+        {
+          "address": "terra1zsqu60y738u0jgk36sdrptq44ejke6a7e392sd",
+          "name": null,
+          "stake_raw": "209466364747093",
+          "vp_pct_of_dao": 0.09467421700960237
+        },
+        {
+          "address": "terra1p72dpkr49tpzjs0z8h2g2r8xt5gmdawc9ygv87",
+          "name": null,
+          "stake_raw": "208402359483847",
+          "vp_pct_of_dao": 0.09419330989445031
+        },
+        {
+          "address": "terra1nf6lk8v6x0jxhj40pvw8x5gz75m4ufhfhsmp4j",
+          "name": null,
+          "stake_raw": "204720652696909",
+          "vp_pct_of_dao": 0.09252925892505891
+        },
+        {
+          "address": "terra1mjtfsg7lpyzugpd94py4zpxgjm2h3ln5zc9u7z",
+          "name": null,
+          "stake_raw": "201486210170802",
+          "vp_pct_of_dao": 0.09106736162239905
+        },
+        {
+          "address": "terra1gtmkcgwddsrmfd0s72l46yj9xj4u44ja98f5yk",
+          "name": null,
+          "stake_raw": "200745327355857",
+          "vp_pct_of_dao": 0.09073249878900107
+        },
+        {
+          "address": "terra1j8ftr0fcdll2v59vt0d6ypc9m7lyelglhq7kez",
+          "name": null,
+          "stake_raw": "200619345479180",
+          "vp_pct_of_dao": 0.09067555773526102
+        },
+        {
+          "address": "terra1egvndf6x8h7yx42vrum6rjnyjy3mpet02u6vac",
+          "name": null,
+          "stake_raw": "200231461465945",
+          "vp_pct_of_dao": 0.09050024264212947
+        },
+        {
+          "address": "terra125ydx33wlgquhne5468plaqp4m2kk20na0l4qk",
+          "name": null,
+          "stake_raw": "200140113716007",
+          "vp_pct_of_dao": 0.0904589554564211
+        },
+        {
+          "address": "terra1md9s3ma54y47k43daca6fr3hl9l05pwy3wd3pr",
+          "name": null,
+          "stake_raw": "200109560636869",
+          "vp_pct_of_dao": 0.09044514613267543
+        },
+        {
+          "address": "terra1d86390xulw7vj2a8d8nqz75pjznuakxlyjn7z0",
+          "name": null,
+          "stake_raw": "193961300597315",
+          "vp_pct_of_dao": 0.08766626702280497
+        },
+        {
+          "address": "terra12hdw3zhlgvfjhwefwh6tfq2wu3vs66p62rf7ws",
+          "name": "cryptoMFT",
+          "stake_raw": "180000000000000",
+          "vp_pct_of_dao": 0.08135606440825927
+        },
+        {
+          "address": "terra1swg70ymnvtcfvns2jry5ayw38gy4v9q64ke3fq",
+          "name": null,
+          "stake_raw": "171929314673667",
+          "vp_pct_of_dao": 0.07770829110143737
+        },
+        {
+          "address": "terra1c2l59crjqf0k8a8uhmhrajtw0tnk3430shcndh",
+          "name": null,
+          "stake_raw": "157760678050467",
+          "vp_pct_of_dao": 0.07130437713646914
+        },
+        {
+          "address": "terra1cx8j8aym6lnj5z7m6xm6hd06jxzt9xpdyhryfq",
+          "name": null,
+          "stake_raw": "150000000000000",
+          "vp_pct_of_dao": 0.06779672034021605
+        },
+        {
+          "address": "terra1ny3c3netlpp0zgd34cs5ddrppyr6xl2yvhspk3",
+          "name": null,
+          "stake_raw": "150000000000000",
+          "vp_pct_of_dao": 0.06779672034021605
+        },
+        {
+          "address": "terra10j6ml4p36srdfzdf4zys389fvrm0qrfnsmkxz5",
+          "name": null,
+          "stake_raw": "140642948627724",
+          "vp_pct_of_dao": 0.06356753770624785
+        },
+        {
+          "address": "terra1yyzs9l06uz3uxak8dksts40jt04fh8rjv6y4uc",
+          "name": null,
+          "stake_raw": "133778379273510",
+          "vp_pct_of_dao": 0.06046490244782342
+        },
+        {
+          "address": "terra1zgllgkux94tdqpuufn5cedmrk98qtdcmwhy7ts",
+          "name": null,
+          "stake_raw": "133742260794039",
+          "vp_pct_of_dao": 0.06044857768481136
+        },
+        {
+          "address": "terra13lzly6934ymemk6k3tzvlu3tl7v7gzq39auhfu",
+          "name": "musicgreg",
+          "stake_raw": "132860516781502",
+          "vp_pct_of_dao": 0.060050048669947155
+        },
+        {
+          "address": "terra1u6t4v60y4cu2p4x53zdyr93r42elxj4xwmh7g3",
+          "name": null,
+          "stake_raw": "129929224839271",
+          "vp_pct_of_dao": 0.058725168802994054
+        },
+        {
+          "address": "terra1nfyqj9s0sul2qc3d67ylrfl8jg2z3up067hdg8",
+          "name": "KcMatmat",
+          "stake_raw": "125628371492290",
+          "vp_pct_of_dao": 0.05678127712573037
+        },
+        {
+          "address": "terra1ah5hkf3afprw7pyftpynq5lggcccr3tmkgpltc",
+          "name": null,
+          "stake_raw": "124923927227687",
+          "vp_pct_of_dao": 0.05646288372037998
+        },
+        {
+          "address": "terra14sel4a2dm5a986dgf6wvkzk2lqfq3me72v8fy7",
+          "name": null,
+          "stake_raw": "120000000000000",
+          "vp_pct_of_dao": 0.054237376272172844
+        },
+        {
+          "address": "terra15xwsmwc0elma7g45pmy7gy87u72cp8nmf8sny7",
+          "name": null,
+          "stake_raw": "118000000000000",
+          "vp_pct_of_dao": 0.05333342000096995
+        },
+        {
+          "address": "terra1xjhz9r93m2crchpwgya8vf5d9y2kd0h50vwwtf",
+          "name": null,
+          "stake_raw": "116783660572013",
+          "vp_pct_of_dao": 0.05278366117404987
+        },
+        {
+          "address": "terra10pa0qv7mrqst053zhv9hxxt9mwhmr45ggguygs",
+          "name": null,
+          "stake_raw": "115187764899962",
+          "vp_pct_of_dao": 0.052062351223581854
+        },
+        {
+          "address": "terra1qgnzhadyj3cqvk8jrtptcmvsjjywncnj4ada3d",
+          "name": "Jetfire",
+          "stake_raw": "113996946216233",
+          "vp_pct_of_dao": 0.051524127215070666
+        },
+        {
+          "address": "terra1a8gx9m553deeajj8jcdlp37tgwqyy2c02z8u94",
+          "name": null,
+          "stake_raw": "112500000000000",
+          "vp_pct_of_dao": 0.05084754025516204
+        },
+        {
+          "address": "terra1zzzh8fmjllwn4xwrrft6es9dnrlv9axaklf0yy",
+          "name": null,
+          "stake_raw": "110170753514547",
+          "vp_pct_of_dao": 0.04979477177131078
+        },
+        {
+          "address": "terra12ju9wyjjlmhlvpvuzl793z0dedwk3h7uye5ms3",
+          "name": null,
+          "stake_raw": "110000000000000",
+          "vp_pct_of_dao": 0.04971759491615844
+        },
+        {
+          "address": "terra1s3c8p4my6vd6wptpms305mscahdea7mukju4ac",
+          "name": null,
+          "stake_raw": "109662331675859",
+          "vp_pct_of_dao": 0.04956497621656153
+        },
+        {
+          "address": "terra1qghactqzymfyep4r2lvu3zfzs5eswz39vymlwe",
+          "name": null,
+          "stake_raw": "108793468405751",
+          "vp_pct_of_dao": 0.049172269015645545
+        },
+        {
+          "address": "terra1u5mrfn4kjk0kaa26p6a8vu8kdra8phucdxamdg",
+          "name": null,
+          "stake_raw": "107071993469301",
+          "vp_pct_of_dao": 0.04839419998338426
+        },
+        {
+          "address": "terra1dve8zlfxlwajnw4gxkd5540mr95wxjm3eeckep",
+          "name": null,
+          "stake_raw": "105861354877940",
+          "vp_pct_of_dao": 0.04784701780997377
+        },
+        {
+          "address": "terra1ur6629jtzrk7fr94vlg9dythm5nnukay7m00sv",
+          "name": "mka_6",
+          "stake_raw": "105464503447849",
+          "vp_pct_of_dao": 0.04766764964049047
+        },
+        {
+          "address": "terra1dzyq59pa06al3dph3vax096m2ctpg67nlyk9xx",
+          "name": "lunac",
+          "stake_raw": "103423631414548",
+          "vp_pct_of_dao": 0.046745220103877966
+        },
+        {
+          "address": "terra1hch3fmt0kk2verlk26srsy67x8gr920j5cll3g",
+          "name": null,
+          "stake_raw": "101965599140581",
+          "vp_pct_of_dao": 0.046086221395043626
+        },
+        {
+          "address": "terra1aewzxqges8n8p5f0u0sve4w6gktlnkkjjkre43",
+          "name": null,
+          "stake_raw": "101310884808457",
+          "vp_pct_of_dao": 0.04579030483185868
+        },
+        {
+          "address": "terra18au39029aa4mey00fap4l74c936l8efjuqhf6u",
+          "name": null,
+          "stake_raw": "100801566216324",
+          "vp_pct_of_dao": 0.04556010396415926
+        },
+        {
+          "address": "terra1wxc4ufxg48h56kqhaaegzljjmup53rjxj70y5t",
+          "name": null,
+          "stake_raw": "100000001000000",
+          "vp_pct_of_dao": 0.045197814012122174
+        },
+        {
+          "address": "terra1uavhv6xv2dteaf3f43msqcu3j3l80p63xz6geq",
+          "name": null,
+          "stake_raw": "100000000767252",
+          "vp_pct_of_dao": 0.04519781390692516
+        },
+        {
+          "address": "terra1n75apcsmzejuwu6qn2zath5maaw83d0s4gmx4j",
+          "name": null,
+          "stake_raw": "100000000216954",
+          "vp_pct_of_dao": 0.0451978136582025
+        },
+        {
+          "address": "terra14adge4r5tvuvqjuvd66kgupmee8l39wnna2lg3",
+          "name": null,
+          "stake_raw": "100000000000000",
+          "vp_pct_of_dao": 0.04519781356014404
+        },
+        {
+          "address": "terra16cemgtx5cwuxzfprp7zg96pmkpkhzzyf8gav4r",
+          "name": null,
+          "stake_raw": "100000000000000",
+          "vp_pct_of_dao": 0.04519781356014404
+        },
+        {
+          "address": "terra19q738dza6ajflhc4vuqvv0ffjp5hcwyu5f0v6z",
+          "name": null,
+          "stake_raw": "100000000000000",
+          "vp_pct_of_dao": 0.04519781356014404
+        },
+        {
+          "address": "terra1ksk66lcvzwaanc47nvn3athj4yzcpay8z8ru04",
+          "name": "LionDAO",
+          "stake_raw": "100000000000000",
+          "vp_pct_of_dao": 0.04519781356014404
+        },
+        {
+          "address": "terra1r8w7rvsg6j2c22jdq0jp02cgyspa7r5hzc95zk",
+          "name": null,
+          "stake_raw": "100000000000000",
+          "vp_pct_of_dao": 0.04519781356014404
+        },
+        {
+          "address": "terra1qqtgqsp4a6vpcpew7dayraf8fp64s3dndqwk3h",
+          "name": null,
+          "stake_raw": "87000000000000",
+          "vp_pct_of_dao": 0.03932209779732531
+        },
+        {
+          "address": "terra14cxnscmgwjaaqnfnpmr0edha9qz0hx4f6xkgay",
+          "name": "Wilson",
+          "stake_raw": "83897488014848",
+          "vp_pct_of_dao": 0.037919830214595183
+        },
+        {
+          "address": "terra14dhzxgzynx6lgjw23f4g6j4m3e2z6rgqwg99wz",
+          "name": "ZozoNFT",
+          "stake_raw": "83368548822105",
+          "vp_pct_of_dao": 0.03768076126441267
+        },
+        {
+          "address": "terra152ptnvk40zwh0vctnmg9fs02pk2p2cz5r008xj",
+          "name": null,
+          "stake_raw": "82874234425709",
+          "vp_pct_of_dao": 0.03745734196512866
+        },
+        {
+          "address": "terra10kzjkq4f3cd7f6hvjqu3etlpn2t437k5xexa0r",
+          "name": null,
+          "stake_raw": "81882411529425",
+          "vp_pct_of_dao": 0.0370090597016194
+        },
+        {
+          "address": "terra1vjgada9t78eh4v8whp9p8cg4evq4erusx9w6w8",
+          "name": "DigitalCowboy",
+          "stake_raw": "80000000000000",
+          "vp_pct_of_dao": 0.03615825084811523
+        },
+        {
+          "address": "terra1s4h4czywhezecpzxxrj85sjfmdhq7lx9ldl3s6",
+          "name": "TeaTime",
+          "stake_raw": "76281562673390",
+          "vp_pct_of_dao": 0.03447759847788323
+        },
+        {
+          "address": "terra142qcgrmqk3x8nh49de76w66lynmrapqjlxvpm8",
+          "name": null,
+          "stake_raw": "66281041392900",
+          "vp_pct_of_dao": 0.029957581514484837
+        },
+        {
+          "address": "terra1kfcu5q8vamz693rf4agsjfskk3k5y9f8nm94fk",
+          "name": null,
+          "stake_raw": "62180479528797",
+          "vp_pct_of_dao": 0.028104217208229195
+        },
+        {
+          "address": "terra1nuzsnr2jmthuwchjr2vzmj3hjnhz5ud7t4jprv",
+          "name": null,
+          "stake_raw": "61778228911443",
+          "vp_pct_of_dao": 0.027922408724153004
+        },
+        {
+          "address": "terra1f0p979gm6evwkhz8ahw0vxvgsjs3gtf4ff0hhn",
+          "name": null,
+          "stake_raw": "60206782051161",
+          "vp_pct_of_dao": 0.02721214910204601
+        },
+        {
+          "address": "terra1sy33tzrp9k93jkzu94xjk5ewhlwl075ash7fys",
+          "name": null,
+          "stake_raw": "59974734262369",
+          "vp_pct_of_dao": 0.027107268575097366
+        },
+        {
+          "address": "terra1pye0qsy43zmvrvxp8lt9rt3w30ydqm0t7rcrd5",
+          "name": null,
+          "stake_raw": "58739107033341",
+          "vp_pct_of_dao": 0.026548792083822915
+        },
+        {
+          "address": "terra1ecvakrgttkuqkeae4p900sg5655g2a64na6r9t",
+          "name": null,
+          "stake_raw": "57900466187123",
+          "vp_pct_of_dao": 0.02616974475771009
+        },
+        {
+          "address": "terra1n4wqxjv67882p7qwq6yvjqv787cudfh4kgrc9p",
+          "name": null,
+          "stake_raw": "53508947005449",
+          "vp_pct_of_dao": 0.024184874105519113
+        },
+        {
+          "address": "terra1ldcmx4s6z75fnmrp8zlz9qfskshyppkh67dcfj",
+          "name": null,
+          "stake_raw": "52961724423569",
+          "vp_pct_of_dao": 0.023937541463201983
+        },
+        {
+          "address": "terra1tdzwcnwv03age8x35secn6xn0wsh2e84njrpu8",
+          "name": null,
+          "stake_raw": "51174557106880",
+          "vp_pct_of_dao": 0.02312978091139706
+        },
+        {
+          "address": "terra1j5ul9gvnvle86z2vfu39kvawx7vz5d9gttu7mt",
+          "name": "Plzlol2",
+          "stake_raw": "50682885610771",
+          "vp_pct_of_dao": 0.022907556145257343
+        },
+        {
+          "address": "terra167d69atdud4pghdd2djt7r7dujghzynlxx8ct4",
+          "name": "Timmitis",
+          "stake_raw": "50611744291269",
+          "vp_pct_of_dao": 0.022875401824304604
+        },
+        {
+          "address": "terra1hwsm9fm0j79lgfgd37z8fe6gsxl4d4mxtc5td8",
+          "name": "kiruse",
+          "stake_raw": "50000000000000",
+          "vp_pct_of_dao": 0.02259890678007202
+        },
+        {
+          "address": "terra1ga7x6aqwvpf8rux4l4h68ugm9ewtps2afqntqh",
+          "name": null,
+          "stake_raw": "46134414000000",
+          "vp_pct_of_dao": 0.020851746426784987
+        },
+        {
+          "address": "terra1fufgf8kq8pjqqplnmf9vt85pz579255l2kmgy5",
+          "name": "Inf",
+          "stake_raw": "45923083288048",
+          "vp_pct_of_dao": 0.020756229565601598
+        },
+        {
+          "address": "terra1t7emhhm6pk0ksxgr52tgjjzpxlzdv8rm0cug3y",
+          "name": null,
+          "stake_raw": "43657489520877",
+          "vp_pct_of_dao": 0.019732230718685403
+        },
+        {
+          "address": "terra1u53z4uhcz08hkmmmqmld7r5yg4pgc8k2a24ge5",
+          "name": null,
+          "stake_raw": "43635830994769",
+          "vp_pct_of_dao": 0.019722441538435238
+        },
+        {
+          "address": "terra1gnuzu4cp7wh900rg0xgvkeq5rpaluw6srv6l0k",
+          "name": "Lim",
+          "stake_raw": "43449713674864",
+          "vp_pct_of_dao": 0.019638320579181436
+        },
+        {
+          "address": "terra1ugv30trhlherg79vngsmuv0wq8xd07xy998qvr",
+          "name": null,
+          "stake_raw": "41808111616932",
+          "vp_pct_of_dao": 0.018896352341637845
+        },
+        {
+          "address": "terra1m7u9ac00f2ea76xasxlm8m4gktxrvpa72jwd30",
+          "name": null,
+          "stake_raw": "40649412990476",
+          "vp_pct_of_dao": 0.018372645896728313
+        },
+        {
+          "address": "terra1yeup0dncz3mta0zsu0g4vag4xzcsmwdvnenjkt",
+          "name": null,
+          "stake_raw": "40003800000000",
+          "vp_pct_of_dao": 0.0180808429409729
+        },
+        {
+          "address": "terra17w93uxwzg55xc97w3lhc9fln2y3j8gje4qr3r7",
+          "name": null,
+          "stake_raw": "36974890052138",
+          "vp_pct_of_dao": 0.01671184186983358
+        },
+        {
+          "address": "terra1sulunpquhj6p2w89wqnvp9z534sppmn6ggme2j",
+          "name": null,
+          "stake_raw": "36534461501348",
+          "vp_pct_of_dao": 0.01651277779458187
+        },
+        {
+          "address": "terra1mgwdlvafnylsl23es3ca6p9dsm4nl54k2k9xck",
+          "name": null,
+          "stake_raw": "35822189974815",
+          "vp_pct_of_dao": 0.016190846637977492
+        },
+        {
+          "address": "terra1wfla9k8n74qrlfvrtshcudy6u3qkhc6sklz9x3",
+          "name": null,
+          "stake_raw": "35000000000000",
+          "vp_pct_of_dao": 0.01581923474605041
+        },
+        {
+          "address": "terra1nxya54lzuszfqjanqrs4gxgd3ysune3tfg8vjt",
+          "name": null,
+          "stake_raw": "34959667440110",
+          "vp_pct_of_dao": 0.015801005310827298
+        },
+        {
+          "address": "terra1z75yypurfmnektxkl3v2y7e3xgnutfqc0ngur5",
+          "name": null,
+          "stake_raw": "33134131404276",
+          "vp_pct_of_dao": 0.014975902936877802
+        },
+        {
+          "address": "terra1247xf3nz6atlsmxdz43h37c83tcdnuknc80f48",
+          "name": "Dizzle_",
+          "stake_raw": "32412210873666",
+          "vp_pct_of_dao": 0.014649610641400291
+        },
+        {
+          "address": "terra1rr6z322wwf2083pq57haves8q3q9vzjqju3za5",
+          "name": null,
+          "stake_raw": "31798938388073",
+          "vp_pct_of_dao": 0.014372424886746307
+        },
+        {
+          "address": "terra1ey9z5wwr6nf8mh96ruhwy6sc5gmuntfuyfdqdx",
+          "name": null,
+          "stake_raw": "31432907410103",
+          "vp_pct_of_dao": 0.014206986887751053
+        },
+        {
+          "address": "terra15cpnqu2xwu2kcjn89hkajyuwnv8eadqxrllrsw",
+          "name": "Ash.Silver",
+          "stake_raw": "30000000000000",
+          "vp_pct_of_dao": 0.013559344068043211
+        },
+        {
+          "address": "terra1hzsem376yhguf406dq7qj0a203a6y2527zmkpd",
+          "name": null,
+          "stake_raw": "30000000000000",
+          "vp_pct_of_dao": 0.013559344068043211
+        },
+        {
+          "address": "terra14rpmltqh5ymwfvc24k9dyfx02lzgnuu0c5m5cm",
+          "name": null,
+          "stake_raw": "29515849539858",
+          "vp_pct_of_dao": 0.01334051864571765
+        },
+        {
+          "address": "terra1rm8vhy9sdswrfuxyfp8t5g40j59pmctc2mmh7z",
+          "name": null,
+          "stake_raw": "29466247557094",
+          "vp_pct_of_dao": 0.013318099634025842
+        },
+        {
+          "address": "terra1p8rdxef56qk5j4hvxs5zjkvyjkm3vnyqqqnnm7",
+          "name": null,
+          "stake_raw": "29313801233937",
+          "vp_pct_of_dao": 0.013249197229106047
+        },
+        {
+          "address": "terra13uanxtr3llvujskwx9rhf26q2jpmj4vpc545rw",
+          "name": null,
+          "stake_raw": "29303528081976",
+          "vp_pct_of_dao": 0.013244553989035963
+        },
+        {
+          "address": "terra1ea9jjsrq0vsp9949kk5q25mjctn5yawaxdheky",
+          "name": null,
+          "stake_raw": "29297695938903",
+          "vp_pct_of_dao": 0.013241917987883269
+        },
+        {
+          "address": "terra1xsmxfgkhuq2u28sex2py6xk8sdcz7veu8dwllz",
+          "name": null,
+          "stake_raw": "29000000000000",
+          "vp_pct_of_dao": 0.01310736593244177
+        },
+        {
+          "address": "terra1dqst5kxwruc4g4fflv9rejmrcm0ezkxc2zw4x5",
+          "name": null,
+          "stake_raw": "27642383000000",
+          "vp_pct_of_dao": 0.01249375273192095
+        },
+        {
+          "address": "terra12sxrtp6rwmlyx622vmk8xe9vc9dm7hdjuyp6kg",
+          "name": null,
+          "stake_raw": "27163119963840",
+          "vp_pct_of_dao": 0.012277136318374668
+        },
+        {
+          "address": "terra10kmr23va9jn4zw8tkqfal7w6ng8wkgvwk3crpq",
+          "name": null,
+          "stake_raw": "26607578466077",
+          "vp_pct_of_dao": 0.012026043707966515
+        },
+        {
+          "address": "terra1uu7e9k45edcghz2m3tljzwpq92ef5rwmg0gc23",
+          "name": null,
+          "stake_raw": "26228259125432",
+          "vp_pct_of_dao": 0.01185459965958422
+        },
+        {
+          "address": "terra1ndszrke4zn9a4vxexttp4rvvps9h4p9yljxz6t",
+          "name": null,
+          "stake_raw": "26225919506817",
+          "vp_pct_of_dao": 0.011853542203124593
+        },
+        {
+          "address": "terra1zjsw5243luc83kgppu0ew40w6qu67r2gxrlpzk",
+          "name": null,
+          "stake_raw": "25844839094199",
+          "vp_pct_of_dao": 0.011681302188715282
+        },
+        {
+          "address": "terra1cqp54vf2ncajhkp6dr5kcn75e6rv9xpzht8uge",
+          "name": null,
+          "stake_raw": "25700446052250",
+          "vp_pct_of_dao": 0.011616039690821353
+        },
+        {
+          "address": "terra1yygu2wuj3t5cdyc5pyhzjngp0ana7eyykqdly7",
+          "name": "12daysLuka",
+          "stake_raw": "25581083204748",
+          "vp_pct_of_dao": 0.011562090293547319
+        },
+        {
+          "address": "terra15upglt0x3l4jaksduayunspkw5m2luhj09aam4",
+          "name": null,
+          "stake_raw": "25384566004803",
+          "vp_pct_of_dao": 0.011473268815902563
+        },
+        {
+          "address": "terra1na0f9fkyys8lhu9340qj3m43syhq4z70zar46t",
+          "name": null,
+          "stake_raw": "25128097803351",
+          "vp_pct_of_dao": 0.011357350796369235
+        },
+        {
+          "address": "terra16d6pzemu64ckee4l9t2ryrpjdgdrmxzd5jaajp",
+          "name": "LlewynBonisagus",
+          "stake_raw": "25000000000000",
+          "vp_pct_of_dao": 0.01129945339003601
+        },
+        {
+          "address": "terra1gg3rc59scj7y8rgd0sdqqfdagf7h3ffnxpprpp",
+          "name": null,
+          "stake_raw": "24991744865030",
+          "vp_pct_of_dao": 0.01129572224952313
+        },
+        {
+          "address": "terra1rdqan8fjdlx9j7y7uv7gfwn4hd7tukfwlymcxd",
+          "name": null,
+          "stake_raw": "24613667900990",
+          "vp_pct_of_dao": 0.011124839728202477
+        },
+        {
+          "address": "terra158vqm8qvvlffz4g39apyugnny6cany8gsjaf70",
+          "name": "BushidoBrown",
+          "stake_raw": "24529630136804",
+          "vp_pct_of_dao": 0.011086856496225575
+        },
+        {
+          "address": "terra1wm2pq548f9cv8wzkgmz8r948w9e4a2lfk7vvyx",
+          "name": null,
+          "stake_raw": "24275965391470",
+          "vp_pct_of_dao": 0.0109722055775617
+        },
+        {
+          "address": "terra1y8ekqq4tsvkl69pjd3qe7as3j4rrrqja43ne3p",
+          "name": "offbyone",
+          "stake_raw": "23900351611847",
+          "vp_pct_of_dao": 0.010802436361741486
+        },
+        {
+          "address": "terra1q6wxdv6rc7p4jjhayg4smj7trxcmwfy44yqk3n",
+          "name": null,
+          "stake_raw": "23773126656075",
+          "vp_pct_of_dao": 0.010744933463429683
+        },
+        {
+          "address": "terra1jnq2c40vxqqsts3dq2v0pzzpd38p86lq02tsm6",
+          "name": "nickymac82",
+          "stake_raw": "23356684283877",
+          "vp_pct_of_dao": 0.010556710616458189
+        },
+        {
+          "address": "terra15kkv0vhwvmlfd48y0pt9qr8q90d929naa2ptcc",
+          "name": null,
+          "stake_raw": "22849816712803",
+          "vp_pct_of_dao": 0.01032761755668733
+        },
+        {
+          "address": "terra1gt34vqgxpkeysrkmq7j3992hv83yyaf49pgw9d",
+          "name": null,
+          "stake_raw": "22380080297689",
+          "vp_pct_of_dao": 0.010115306967560002
+        },
+        {
+          "address": "terra10w4r9qgtslmk956nshl8f99srwkrpavhd6n6vq",
+          "name": "cris84mon_DAO",
+          "stake_raw": "22262907860984",
+          "vp_pct_of_dao": 0.010062347588074198
+        },
+        {
+          "address": "terra16rhrvl9ajt9mty7cysu76humsdq2ze3j48500f",
+          "name": "RK_Terra",
+          "stake_raw": "22250751913394",
+          "vp_pct_of_dao": 0.010056853365546
+        },
+        {
+          "address": "terra1sxvumj356uzmes9r382ytz3w8e42z4kqgxc095",
+          "name": null,
+          "stake_raw": "22000000000000",
+          "vp_pct_of_dao": 0.009943518983231687
+        },
+        {
+          "address": "terra1hjdrzs6g4u8c23sz8rsxsshkuncpr28sy5g6rw",
+          "name": null,
+          "stake_raw": "21937873554374",
+          "vp_pct_of_dao": 0.009915439188166104
+        },
+        {
+          "address": "terra1ne8p3j7f8469mj5lnwqyva94lf3ckxtmwjcey7",
+          "name": null,
+          "stake_raw": "21851067783818",
+          "vp_pct_of_dao": 0.009876204877830757
+        },
+        {
+          "address": "terra17wzr5y843lwq2phfp5na3rurw2jvpfrh6v2pva",
+          "name": null,
+          "stake_raw": "21467853347023",
+          "vp_pct_of_dao": 0.009703000331152596
+        },
+        {
+          "address": "terra12saxy20x0x3n7efuxpfeq4jqp0vqpazyza0e5m",
+          "name": null,
+          "stake_raw": "21313000000000",
+          "vp_pct_of_dao": 0.009633010004073498
+        },
+        {
+          "address": "terra1qyqrfwzy0chh4ld6xfdrggetxyhze2sv3mc6ph",
+          "name": null,
+          "stake_raw": "21229423847125",
+          "vp_pct_of_dao": 0.009595235410316314
+        },
+        {
+          "address": "terra1cxakwsmzgt58e8x8fdrv8s49z8pyu8kf30h2de",
+          "name": null,
+          "stake_raw": "21089207307858",
+          "vp_pct_of_dao": 0.00953186060031793
+        },
+        {
+          "address": "terra1866z3phvwf090m272z7kxn3yf7mdu3hqqm9z9q",
+          "name": null,
+          "stake_raw": "20225151708568",
+          "vp_pct_of_dao": 0.00914132636149485
+        },
+        {
+          "address": "terra16vnmejq27c3s9ut4mnlrwfq3vlpjmsd3xs3w60",
+          "name": "Hanuman",
+          "stake_raw": "19957497471602",
+          "vp_pct_of_dao": 0.009020352498485132
+        },
+        {
+          "address": "terra1nkzmg7dlkhdqyecr5jn63l4xyqjhccz5cm28cn",
+          "name": null,
+          "stake_raw": "19838885614146",
+          "vp_pct_of_dao": 0.008966742532291945
+        },
+        {
+          "address": "terra1fd7aw5j3sn5h8cy7duxzqxwg7k0xtvv3sg846z",
+          "name": "SavageSam_Vault",
+          "stake_raw": "19713745615603",
+          "vp_pct_of_dao": 0.008910181989061312
+        },
+        {
+          "address": "terra1ylsu030krfe6twn08ratevt0svx3s9knt06zlz",
+          "name": null,
+          "stake_raw": "19700181576388",
+          "vp_pct_of_dao": 0.008904051339905692
+        },
+        {
+          "address": "terra1jnhje42mwh7yzxcc459vl3vpnn9a05m67jz9yg",
+          "name": null,
+          "stake_raw": "18000000000000",
+          "vp_pct_of_dao": 0.008135606440825926
+        },
+        {
+          "address": "terra1uwv059vl65l4k5l8y4j3fpm84kg8lqve5e63nd",
+          "name": null,
+          "stake_raw": "17589797512848",
+          "vp_pct_of_dao": 0.007950203885463893
+        },
+        {
+          "address": "terra188hq77mad9p4xdsfqhkulvp94cq5rh8pvx55xc",
+          "name": null,
+          "stake_raw": "17220899373574",
+          "vp_pct_of_dao": 0.007783469992247988
+        },
+        {
+          "address": "terra1a320w82d45sy5sn88khh5a57r6q5cnehyxxhjy",
+          "name": null,
+          "stake_raw": "17200000000000",
+          "vp_pct_of_dao": 0.007774023932344773
+        },
+        {
+          "address": "terra126pzz4ed3r6v65jen9ex6u7ttdv7c0nytl7djf",
+          "name": "hterra",
+          "stake_raw": "16450000000000",
+          "vp_pct_of_dao": 0.007435040330643693
+        },
+        {
+          "address": "terra1cczlrgqpr39pkmykuwmfwxgs45v7v9ckpkyc6y",
+          "name": null,
+          "stake_raw": "16115807952674",
+          "vp_pct_of_dao": 0.007283992832160461
+        },
+        {
+          "address": "terra1y5mneh2gamuztzza42pdd89u47sdx9kqdy022l",
+          "name": "luckystan777",
+          "stake_raw": "15595257199859",
+          "vp_pct_of_dao": 0.00704871527341721
+        },
+        {
+          "address": "terra1j8ghpaj8y0wl67pg732hu85mfvn90lemtekmfc",
+          "name": null,
+          "stake_raw": "15491118038331",
+          "vp_pct_of_dao": 0.007001646649346688
+        },
+        {
+          "address": "terra1mq7zc8xjc5mye7vcpqfjwcchs9zsf45pxtwyre",
+          "name": "FROST_CR",
+          "stake_raw": "15194061509890",
+          "vp_pct_of_dao": 0.0068673835934536884
+        },
+        {
+          "address": "terra1mwrjk6lrxzugpf3z6knghz9knf8suryfea0hfs",
+          "name": "moon",
+          "stake_raw": "15103120231070",
+          "vp_pct_of_dao": 0.006826280123803413
+        },
+        {
+          "address": "terra1hars4fft85z23dhltn8lpzwdns9l9zdnj0fvr0",
+          "name": null,
+          "stake_raw": "14222364459239",
+          "vp_pct_of_dao": 0.00642819777213103
+        },
+        {
+          "address": "terra1qgjywmavwajy24te4ja9kx0lpzpvvwup4el57d",
+          "name": null,
+          "stake_raw": "13927506107884",
+          "vp_pct_of_dao": 0.006294928244219083
+        },
+        {
+          "address": "terra1srf8k6p443w4eref98fwvw7trdqwxlysuujuzn",
+          "name": null,
+          "stake_raw": "13875706219465",
+          "vp_pct_of_dao": 0.0062715158272271
+        },
+        {
+          "address": "terra1wq5h4cf5fqtt5yf9xr3r34v350czs4z0xwnlvu",
+          "name": null,
+          "stake_raw": "13760000000000",
+          "vp_pct_of_dao": 0.006219219145875819
+        },
+        {
+          "address": "terra1dm3zr2q8v9e29sk5twg02pls4mlp74jjhv3vve",
+          "name": null,
+          "stake_raw": "13427792379420",
+          "vp_pct_of_dao": 0.0060690685648934805
+        },
+        {
+          "address": "terra1l3gzx2hk3n8gruz59utxzl9yvts7jwsed25qpa",
+          "name": "kijuto2806",
+          "stake_raw": "13052588223125",
+          "vp_pct_of_dao": 0.005899484489861355
+        },
+        {
+          "address": "terra1pjklmvkkyvfuhqr8ja8g9t3uu7t6ftdgtz4g6v",
+          "name": null,
+          "stake_raw": "13017366537187",
+          "vp_pct_of_dao": 0.005883565057918358
+        },
+        {
+          "address": "terra19ujmpkuamfpsk3ujqrh09rzqegqn95fugu3yf8",
+          "name": null,
+          "stake_raw": "12592373543796",
+          "vp_pct_of_dao": 0.005691477517121818
+        },
+        {
+          "address": "terra1az2wlg82uwee62yf4rffe5zaqxtmxs6l9lpcn2",
+          "name": null,
+          "stake_raw": "12425354384422",
+          "vp_pct_of_dao": 0.005615988508858237
+        },
+        {
+          "address": "terra1kt5wxtdjewnwlg68scjpknxaz0jgvzskxs3lta",
+          "name": null,
+          "stake_raw": "12396224580485",
+          "vp_pct_of_dao": 0.005602822474384357
+        },
+        {
+          "address": "terra1caqnsrs6tm3rmvxm477t7apvxqlz02qx6nr5rl",
+          "name": "sfbandit",
+          "stake_raw": "12062505778796",
+          "vp_pct_of_dao": 0.005451988872581816
+        },
+        {
+          "address": "terra18e0c3dnw0m34m4hm75k3766p4h85wl0355s3cc",
+          "name": null,
+          "stake_raw": "12000000000000",
+          "vp_pct_of_dao": 0.005423737627217284
+        },
+        {
+          "address": "terra1vrhte87fr6688zcr4lpp06z3rjyn2032zvhjs0",
+          "name": null,
+          "stake_raw": "11841789964537",
+          "vp_pct_of_dao": 0.00535223015035528
+        },
+        {
+          "address": "terra1at236lyq0zn9qda8yefv9v3m75tu4a4exyzm4q",
+          "name": "Mathiasuda",
+          "stake_raw": "11805504266635",
+          "vp_pct_of_dao": 0.005335829808268537
+        },
+        {
+          "address": "terra1n67trzv9wj3py38pdvphcxzw4ttdfzsmrvtumj",
+          "name": null,
+          "stake_raw": "11409928952039",
+          "vp_pct_of_dao": 0.005157038415087483
+        },
+        {
+          "address": "terra1c5sln6rzmqzrptf7f837e98eemje6dfge8dc89",
+          "name": null,
+          "stake_raw": "11344490874847",
+          "vp_pct_of_dao": 0.0051274618349609
+        },
+        {
+          "address": "terra1e3r0eezgjsfkk0pwlyhr4rlaz5n8yfp8qpnqgp",
+          "name": "lunvler",
+          "stake_raw": "11189227062984",
+          "vp_pct_of_dao": 0.005057285986748688
+        },
+        {
+          "address": "terra1hk06zwvj37yeyj4j0ucjmthtv2zzvrptf0v384",
+          "name": null,
+          "stake_raw": "10877325269805",
+          "vp_pct_of_dao": 0.0049163131957768984
+        },
+        {
+          "address": "terra1tjfa9e5fhn8ehmls2ecrnj3a9c4hmw5h8szy33",
+          "name": null,
+          "stake_raw": "10863761750087",
+          "vp_pct_of_dao": 0.004910182781422563
+        },
+        {
+          "address": "terra1dpkplyx8y5759g4zr2crhtz9rauqnc4xt2j5d3",
+          "name": null,
+          "stake_raw": "10836630708326",
+          "vp_pct_of_dao": 0.004897920143750501
+        },
+        {
+          "address": "terra1cyq6n7l3y7lzplv6jnl38julzeyg3rv9cvvyra",
+          "name": null,
+          "stake_raw": "10803134755904",
+          "vp_pct_of_dao": 0.0048827807056246115
+        },
+        {
+          "address": "terra127n2htgecsqeq93yv0f5tnsxq2c78k5x30erft",
+          "name": null,
+          "stake_raw": "10523606329540",
+          "vp_pct_of_dao": 0.004756439968629006
+        },
+        {
+          "address": "terra1mujx82t28as537835qm22a0s0zszmafm2l8y9r",
+          "name": null,
+          "stake_raw": "10509472234071",
+          "vp_pct_of_dao": 0.004750051666510514
+        },
+        {
+          "address": "terra1sg7agks2mvxp20ld29fvkjq74588twc2uqvt24",
+          "name": null,
+          "stake_raw": "10500000000000",
+          "vp_pct_of_dao": 0.0047457704238151235
+        },
+        {
+          "address": "terra10355nemgu8xydzhwsm2ace8h97z3ec30zdhwgc",
+          "name": null,
+          "stake_raw": "10398239192508",
+          "vp_pct_of_dao": 0.004699776763767592
+        },
+        {
+          "address": "terra1cj5pnl4kjm7qvfycmtnceqnge05ypvypmzm8n5",
+          "name": null,
+          "stake_raw": "10000000000000",
+          "vp_pct_of_dao": 0.004519781356014403
+        },
+        {
+          "address": "terra1ed2qqlv6jjhjr3n0yfs6nvjstl2p06pu2s8zse",
+          "name": "Lwh",
+          "stake_raw": "10000000000000",
+          "vp_pct_of_dao": 0.004519781356014403
+        },
+        {
+          "address": "terra1mu2aut0qekq4j05vv4v3gyfn7w99aweyk4ntvn",
+          "name": null,
+          "stake_raw": "10000000000000",
+          "vp_pct_of_dao": 0.004519781356014403
+        },
+        {
+          "address": "terra1pakur5vvckkceh8fmep5nxkvwsngyz7kngrha4",
+          "name": null,
+          "stake_raw": "10000000000000",
+          "vp_pct_of_dao": 0.004519781356014403
+        },
+        {
+          "address": "terra1ydu9s5aa86w2p22d9y6r2way2tga5rja69p4cr",
+          "name": "Alderaan",
+          "stake_raw": "10000000000000",
+          "vp_pct_of_dao": 0.004519781356014403
+        },
+        {
+          "address": "terra1ztpkl6s0gd6unvqkc7l27tcp65s466vjzmyvp4",
+          "name": null,
+          "stake_raw": "10000000000000",
+          "vp_pct_of_dao": 0.004519781356014403
+        },
+        {
+          "address": "terra1xmktwcwcyt90h36ev0grjrflh0d5reuxmnay94",
+          "name": null,
+          "stake_raw": "9865118907576",
+          "vp_pct_of_dao": 0.004458818051332718
+        },
+        {
+          "address": "terra1zztegfq6cne8ytfnrp4dvmtv9ch66lekaw23ad",
+          "name": null,
+          "stake_raw": "9364083141102",
+          "vp_pct_of_dao": 0.0042323608397321615
+        },
+        {
+          "address": "terra1jctdpqdfkgmffd030xjf2wu7l8vke2ygjmyjz3",
+          "name": null,
+          "stake_raw": "9009079874642",
+          "vp_pct_of_dao": 0.004071907125225149
+        },
+        {
+          "address": "terra1rr0mlysgrclyhl0mau2uhjsftjtwm9j3g8tan8",
+          "name": "bobo94548729",
+          "stake_raw": "7725704567279",
+          "vp_pct_of_dao": 0.0034918495465262947
+        },
+        {
+          "address": "terra17d4k29qat2vgy9vcnnel4ucztda5z2r32vuc5a",
+          "name": null,
+          "stake_raw": "7672630048458",
+          "vp_pct_of_dao": 0.003467861024461636
+        },
+        {
+          "address": "terra12826kkk0av98n8sxly079ht7aeh286s5f7h0q3",
+          "name": "WiseIntelligent",
+          "stake_raw": "7585263554321",
+          "vp_pct_of_dao": 0.00342837327932756
+        },
+        {
+          "address": "terra1av0cn439l964h5mau09q9qmpe0k6zqymd03l3j",
+          "name": null,
+          "stake_raw": "7503138774937",
+          "vp_pct_of_dao": 0.0033912546746549003
+        },
+        {
+          "address": "terra1d789t3s07jev7vnthtas0rcrjrp0dyqn72kxdj",
+          "name": null,
+          "stake_raw": "7374926294861",
+          "vp_pct_of_dao": 0.0033333054369493126
+        },
+        {
+          "address": "terra1s003pr5eqkfkveumvryk9dwtdxuyg4mc9zua6g",
+          "name": null,
+          "stake_raw": "6909262111974",
+          "vp_pct_of_dao": 0.0031228354077516784
+        },
+        {
+          "address": "terra1kw4xe0sjlungq7pm7h7780gmm0wd46kzvd2w9s",
+          "name": null,
+          "stake_raw": "6252819513307",
+          "vp_pct_of_dao": 0.0028261377058768035
+        },
+        {
+          "address": "terra1l7d3xx3jkrslxghma3mfymqr06eg4wlu3mhvqk",
+          "name": null,
+          "stake_raw": "6237680286595",
+          "vp_pct_of_dao": 0.002819295106413066
+        },
+        {
+          "address": "terra1x9gkhwk35der5wp00rfpakurwtexqg7w725s9m",
+          "name": "Abdulrahman",
+          "stake_raw": "6090711246678",
+          "vp_pct_of_dao": 0.002752868313760247
+        },
+        {
+          "address": "terra17lapk5p993ugazmv2uuc2wdrn3qveqlh7hklpj",
+          "name": "inowhere",
+          "stake_raw": "5714940006698",
+          "vp_pct_of_dao": 0.002583027929301445
+        },
+        {
+          "address": "terra143kcg4pnlsrpmtjmkkz9kxymxwh6xew4q5gz96",
+          "name": null,
+          "stake_raw": "5453394544112",
+          "vp_pct_of_dao": 0.0024648150987468084
+        },
+        {
+          "address": "terra1q9m3lg0xjndvn6hv8apa572adreexejdw7pdwl",
+          "name": "emil_lime",
+          "stake_raw": "5005700965302",
+          "vp_pct_of_dao": 0.002262467389675528
+        },
+        {
+          "address": "terra1ujhc3qc0q2ej0mrjlgypdk46gsw2xr8glv3g9q",
+          "name": null,
+          "stake_raw": "5000423797245",
+          "vp_pct_of_dao": 0.0022600822250958695
+        },
+        {
+          "address": "terra1aysya94w8fsw4k2hqj7j3dglsqlrpxa3v4zygr",
+          "name": null,
+          "stake_raw": "5000000000000",
+          "vp_pct_of_dao": 0.0022598906780072017
+        },
+        {
+          "address": "terra15rku203wqn9ru4p54k5p78j6tk6tmqkjwwpae4",
+          "name": null,
+          "stake_raw": "4938485675510",
+          "vp_pct_of_dao": 0.0022320875483114295
+        },
+        {
+          "address": "terra1yx60pl292synwydj6cf6p3hrf57npz6pwhd72x",
+          "name": "Ibrahim",
+          "stake_raw": "4766941110516",
+          "vp_pct_of_dao": 0.0021545531556528812
+        },
+        {
+          "address": "terra124znjuweqm26jkg4z35kx8kjgcfa30gawm09uz",
+          "name": null,
+          "stake_raw": "4692423061125",
+          "vp_pct_of_dao": 0.002120872626620481
+        },
+        {
+          "address": "terra1nlzaeaa2k6eyvpjsg95w2343hhrczl65qvwpnf",
+          "name": null,
+          "stake_raw": "4632321660063",
+          "vp_pct_of_dao": 0.002093708107421444
+        },
+        {
+          "address": "terra1jh876grj729q8tuxadefudklv66sq079myycyh",
+          "name": null,
+          "stake_raw": "4328369629605",
+          "vp_pct_of_dao": 0.001956328435382765
+        },
+        {
+          "address": "terra1w67l00u5585z2fz6s5euwls8a2zm5ptxznl2du",
+          "name": null,
+          "stake_raw": "4042639682764",
+          "vp_pct_of_dao": 0.001827184746724071
+        },
+        {
+          "address": "terra1jwn7pfaxe005lfgh4mc6xahc8s86xp38ht4zum",
+          "name": null,
+          "stake_raw": "2749000000000",
+          "vp_pct_of_dao": 0.0012424878947683595
+        },
+        {
+          "address": "terra1kmzxj2sx90vqfdjl0fhn2m2jzudh5h74r9hfzp",
+          "name": null,
+          "stake_raw": "2663477723480",
+          "vp_pct_of_dao": 0.001203833695674459
+        },
+        {
+          "address": "terra1zaq3ghh7fmggw8sjsfscmhha7rnrq5cndsmwpp",
+          "name": null,
+          "stake_raw": "2658541919740",
+          "vp_pct_of_dao": 0.0012016028203023592
+        },
+        {
+          "address": "terra18lzelvk79m8n9sk5d6uuxts5xqe3xs70u8e6v5",
+          "name": "LionLeap2",
+          "stake_raw": "2645590464133",
+          "vp_pct_of_dao": 0.0011957490455437826
+        },
+        {
+          "address": "terra14698rl89hk8h2k23u99dgflw4tsxha8prm4stg",
+          "name": "blue7224",
+          "stake_raw": "2608745298667",
+          "vp_pct_of_dao": 0.0011790958363505333
+        },
+        {
+          "address": "terra1j39k0ahnmr6c0e9fxyanhqwq4sw83uuepjjhvl",
+          "name": null,
+          "stake_raw": "2586868732711",
+          "vp_pct_of_dao": 0.0011692081068563785
+        },
+        {
+          "address": "terra1xcnxtqngujxgpnnjt2ms339sq3algtmelgd5ku",
+          "name": null,
+          "stake_raw": "2500000000000",
+          "vp_pct_of_dao": 0.0011299453390036008
+        },
+        {
+          "address": "terra128qmeave7hlnjj5uxd46jce65wrumkhf0j8ew9",
+          "name": "McDope",
+          "stake_raw": "2499418925355",
+          "vp_pct_of_dao": 0.0011296827059689085
+        },
+        {
+          "address": "terra1apcvfccryplzwgh5763l2mnkrsyap0muqmhxwy",
+          "name": null,
+          "stake_raw": "2083115651685",
+          "vp_pct_of_dao": 0.0009415227284907656
+        },
+        {
+          "address": "terra1k7wrmppe2dl5jerlpu3nlucqgudk8s3ngx48py",
+          "name": null,
+          "stake_raw": "2034606085373",
+          "vp_pct_of_dao": 0.0009195974651502335
+        },
+        {
+          "address": "terra1u9fhd3tqmlyhca5ea2cjn8ght6q7nn8f2g7nsq",
+          "name": null,
+          "stake_raw": "2019466783130",
+          "vp_pct_of_dao": 0.0009127548315481357
+        },
+        {
+          "address": "terra1k9xzzd092760hnqwyytkesj7c8498r63gt2p2x",
+          "name": null,
+          "stake_raw": "1667630928768",
+          "vp_pct_of_dao": 0.000753732718055859
+        },
+        {
+          "address": "terra1wq35u0ndsuwtt6dh9f7n97fh4ykpcgy2k62umk",
+          "name": "Tyrus_Rechs",
+          "stake_raw": "1544116265351",
+          "vp_pct_of_dao": 0.0006979067907652038
+        },
+        {
+          "address": "terra1s2r66jvjxczsc7flfv5j5x7qrw5w3us0pmesdv",
+          "name": null,
+          "stake_raw": "1332552966872",
+          "vp_pct_of_dao": 0.0006022848055569744
+        },
+        {
+          "address": "terra186twgvqlv4wgha37gs922pst7mf9mlt4958hmu",
+          "name": null,
+          "stake_raw": "1260486536266",
+          "vp_pct_of_dao": 0.000569712354612224
+        },
+        {
+          "address": "terra1zfge7des3j03sj4fekxu8r37lpkmces2457r6v",
+          "name": "FWW",
+          "stake_raw": "1235278039215",
+          "vp_pct_of_dao": 0.0005583186651137986
+        },
+        {
+          "address": "terra168zqjwh3wwe8ktg64uz4yzepn3d9pct6kgqdqm",
+          "name": null,
+          "stake_raw": "1132835334827",
+          "vp_pct_of_dao": 0.0005120168025785409
+        },
+        {
+          "address": "terra14vwq8zpr7sh9ajahr0gyhj6at6ha6rmdpecysm",
+          "name": "tiltshark",
+          "stake_raw": "1102715626295",
+          "vp_pct_of_dao": 0.0004984033528713887
+        },
+        {
+          "address": "terra130hnn9qh9naezd8q9p5cext6qse35ktxpqe07d",
+          "name": null,
+          "stake_raw": "1000000000000",
+          "vp_pct_of_dao": 0.0004519781356014403
+        },
+        {
+          "address": "terra1f0z9sm9dz37h9z69yl5smcp6sd5jphv6zynre6",
+          "name": null,
+          "stake_raw": "1000000000000",
+          "vp_pct_of_dao": 0.0004519781356014403
+        },
+        {
+          "address": "terra1fsxuvu22sd4y28zvdrxnf0jekmcfutn8uw5kpv",
+          "name": null,
+          "stake_raw": "1000000000000",
+          "vp_pct_of_dao": 0.0004519781356014403
+        },
+        {
+          "address": "terra1jv2qj2qx0qndrs0qgxq8thq45z0w2uc733pwcq",
+          "name": null,
+          "stake_raw": "1000000000000",
+          "vp_pct_of_dao": 0.0004519781356014403
+        },
+        {
+          "address": "terra1mqmqc7vmjpslgeju4m0pwwt94gutllnur775kv",
+          "name": null,
+          "stake_raw": "995098813276",
+          "vp_pct_of_dao": 0.0004497629063636923
+        },
+        {
+          "address": "terra1g692jde5e7nqpml4rmxgge22m3qvft8ufctpes",
+          "name": "bestofcryptos",
+          "stake_raw": "975956961334",
+          "vp_pct_of_dao": 0.0004411112078109883
+        },
+        {
+          "address": "terra1jx9tsunsg8vy0p5cavl6n6rkul4cv7x8e8qye4",
+          "name": null,
+          "stake_raw": "907495880564",
+          "vp_pct_of_dao": 0.00041016829616330404
+        },
+        {
+          "address": "terra1kkvmg6l545fjl67f44hx9ytyjurx4s2r9z8att",
+          "name": null,
+          "stake_raw": "841944507009",
+          "vp_pct_of_dao": 0.0003805405085578016
+        },
+        {
+          "address": "terra109s6jzmrr5mw8edsfkkvlq8yxm5p34emxs6v46",
+          "name": null,
+          "stake_raw": "766532000000",
+          "vp_pct_of_dao": 0.0003464557042388433
+        },
+        {
+          "address": "terra1hc8s7rqzguks55q4zw4u5lz9wge4punuqc4uxd",
+          "name": null,
+          "stake_raw": "695627504464",
+          "vp_pct_of_dao": 0.00031440842254072134
+        },
+        {
+          "address": "terra1myh3pl3aa8yqclgxtzzd3f9ac8p9ygw7huhyfe",
+          "name": null,
+          "stake_raw": "687716822234",
+          "vp_pct_of_dao": 0.00031083296713507047
+        },
+        {
+          "address": "terra1pnnk4mhstjje4qryxd4glkrvya42vjzphf0dd3",
+          "name": "Skengy",
+          "stake_raw": "638796794245",
+          "vp_pct_of_dao": 0.000288722184091032
+        },
+        {
+          "address": "terra1l4mpnxhvrca26ge5mt4le7uh8yvcknv4ar42lq",
+          "name": null,
+          "stake_raw": "591505127920",
+          "vp_pct_of_dao": 0.0002673473849159731
+        },
+        {
+          "address": "terra1llex6wfx49xssnz7z055jmp5p69nnj2uqhv7hs",
+          "name": "slickwallet",
+          "stake_raw": "478745163297",
+          "vp_pct_of_dao": 0.00021638234633518516
+        },
+        {
+          "address": "terra1cu8qpx0ae79hfnsdhxm6tyyjammnx5y64mkhfr",
+          "name": null,
+          "stake_raw": "379729896148",
+          "vp_pct_of_dao": 0.00017162961049310162
+        },
+        {
+          "address": "terra1rz039rdm5yf0s62phmpmhjcmhm5v3gf6cc5j9e",
+          "name": null,
+          "stake_raw": "379653131439",
+          "vp_pct_of_dao": 0.0001715949145230478
+        },
+        {
+          "address": "terra1y9qtarp3yqpgj4kr4d7qtvvqchp5wtsajt7ejx",
+          "name": null,
+          "stake_raw": "370840000000",
+          "vp_pct_of_dao": 0.00016761157180643813
+        },
+        {
+          "address": "terra1wdw603l3k0pchdkn8g3q28kcw3qnrfhwcd845p",
+          "name": null,
+          "stake_raw": "366185864368",
+          "vp_pct_of_dao": 0.00016550800426065056
+        },
+        {
+          "address": "terra1c4273lx3yx5kvtkf2tqdpm4me6ns7298sssagn",
+          "name": null,
+          "stake_raw": "332539889854",
+          "vp_pct_of_dao": 0.00015030075942931926
+        },
+        {
+          "address": "terra1j5uuexzp9hmhxdmehxm2ka2mlhnr492tfq5xlg",
+          "name": null,
+          "stake_raw": "329617000000",
+          "vp_pct_of_dao": 0.00014897967712253996
+        },
+        {
+          "address": "terra1ce7mdxujdc78w4y8a5tg3duhnwwcr8zp3fgvly",
+          "name": null,
+          "stake_raw": "241894625022",
+          "vp_pct_of_dao": 0.00010933108162945308
+        },
+        {
+          "address": "terra18ad5qcc600z4regg9uuhk8vx8kua3gjtzmgh8r",
+          "name": null,
+          "stake_raw": "166598701331",
+          "vp_pct_of_dao": 0.00007529897042120658
+        },
+        {
+          "address": "terra1stwtc4xffhu2etg43q7yyauwlpdh4aw5ake34s",
+          "name": null,
+          "stake_raw": "163202538769",
+          "vp_pct_of_dao": 0.00007376397919823441
+        },
+        {
+          "address": "terra1p6763cacd9xxznfy9ynn3wf6mdp6hgrkhkw5gx",
+          "name": "nobe",
+          "stake_raw": "125326900768",
+          "vp_pct_of_dao": 0.00005664501894982736
+        },
+        {
+          "address": "terra16vrz4hrvr2sp0qknuy7hvexr00ltkegfk8e9gc",
+          "name": null,
+          "stake_raw": "113389554057",
+          "vp_pct_of_dao": 0.00005124959923936159
+        },
+        {
+          "address": "terra1zstf4e0au48fy56kkztsfea2m4fl4nd040etn8",
+          "name": "Dusky",
+          "stake_raw": "111111000000",
+          "vp_pct_of_dao": 0.00005021974262481164
+        },
+        {
+          "address": "terra12plgtfg565hr3ztegpvq4m79wcr6d2du27vzj4",
+          "name": null,
+          "stake_raw": "77430286773",
+          "vp_pct_of_dao": 0.00003499679665474541
+        },
+        {
+          "address": "terra1dr9xlcr5s7dt7apycdxe82g5l66pyh3djad20w",
+          "name": "Llewyn",
+          "stake_raw": "62670368872",
+          "vp_pct_of_dao": 0.000028325636480221105
+        },
+        {
+          "address": "terra1k5hfj9dk7eg68w4pymweksj6kn3twkqrh3h5zj",
+          "name": null,
+          "stake_raw": "40265287373",
+          "vp_pct_of_dao": 0.000018199029516304758
+        },
+        {
+          "address": "terra1qedkxxc0gwgfggdzl8zy67vpnazrx3uhf0j6v3",
+          "name": null,
+          "stake_raw": "40264139015",
+          "vp_pct_of_dao": 0.000018198510483596913
+        },
+        {
+          "address": "terra1jmcqdyh9auemdr35xnqsywpagd9ty3yxwlp8qx",
+          "name": "mejonz12",
+          "stake_raw": "24200000000",
+          "vp_pct_of_dao": 0.000010937870881554856
+        },
+        {
+          "address": "terra165sl4agxz0pdj5vw8qaj5le7qfpec5l6vs4p0w",
+          "name": null,
+          "stake_raw": "21766530213",
+          "vp_pct_of_dao": 0.000009837995744184163
+        },
+        {
+          "address": "terra1za2pnwqydrs8nnet6x63t4he9q77ngcjwzl9e3",
+          "name": "Olero",
+          "stake_raw": "8579052857",
+          "vp_pct_of_dao": 0.0000038775443155330705
+        },
+        {
+          "address": "terra1ywrk2thvg2t2mhzztenvt0c6whw5rd7dfdu39t",
+          "name": null,
+          "stake_raw": "6713078776",
+          "vp_pct_of_dao": 0.000003034164829322079
+        },
+        {
+          "address": "terra1j4zesnmcqfwa4eszr94z8sxqz5x9jfx28f9k6y",
+          "name": null,
+          "stake_raw": "4322876283",
+          "vp_pct_of_dao": 0.0000019538455628260246
+        },
+        {
+          "address": "terra1vzcy66ls4pdjqtscr077559frlsatfzcu2u5ud",
+          "name": null,
+          "stake_raw": "150000000",
+          "vp_pct_of_dao": 6.779672034021605e-8
+        },
+        {
+          "address": "terra1lndjge9f9l7e2ftdz0mfn8srdwlnxst2s4amf2",
+          "name": null,
+          "stake_raw": "1075434",
+          "vp_pct_of_dao": 4.860726542823994e-10
+        }
+      ]
     }
   ]
 }
