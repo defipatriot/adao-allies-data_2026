@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "capturedAt": "2026-06-13T23:14:18.194Z",
+  "runId": "adao-allies-20260613231418",
+  "status": "partial",
+  "next_expected_run_at": "2026-06-15T00:14:18.194Z",
+  "stats": {
+    "ally_count": 2,
+    "per_ally": [
+      {
+        "slug": "pixellions",
+        "status": "ok",
+        "registered_count": 77,
+        "total_staker_count": 291,
+        "captured": 77,
+        "voting_module_resolved": true
+      },
+      {
+        "slug": "liondao",
+        "status": "error",
+        "registered_count": 0,
+        "total_staker_count": 0,
+        "captured": 0,
+        "voting_module_resolved": true
+      }
+    ]
+  }
+}
