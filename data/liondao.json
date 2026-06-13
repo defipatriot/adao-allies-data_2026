@@ -1,7 +1,7 @@
 {
   "slug": "liondao",
   "name": "Lion DAO",
-  "stake_type": "token",
+  "stake_type": "cw20",
   "status": "error",
   "voting_module": "terra1vjzdmt363a5a4tzheensxv5ygq9d7m2680l9fhceawquesz26vvqapfr9p",
   "registered_count": 0,
