@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-06-17T03:00:38.729Z",
-  "runId": "adao-allies-20260617030038",
+  "capturedAt": "2026-06-18T03:00:33.894Z",
+  "runId": "adao-allies-20260618030033",
   "status": "ok",
-  "next_expected_run_at": "2026-06-18T04:00:38.729Z",
+  "next_expected_run_at": "2026-06-19T04:00:33.894Z",
   "stats": {
     "ally_count": 2,
     "per_ally": [
