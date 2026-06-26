@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-06-25T03:00:23.873Z",
+  "capturedAt": "2026-06-26T03:00:32.154Z",
   "epoch": {
     "number": 191,
     "starts_at": "2026-06-22T00:00:00.000Z",
     "ends_at": "2026-06-29T00:00:00.000Z",
-    "progress_pct": 44.64680555555556
+    "progress_pct": 58.93389864417989
   },
   "allies": [
     {
@@ -2158,7 +2158,7 @@
         },
         {
           "address": "terra1a8gx9m553deeajj8jcdlp37tgwqyy2c02z8u94",
-          "name": null,
+          "name": "Vellorian",
           "stake_raw": "112500000000000",
           "vp_pct_of_dao": 0.05084754025516204
         },
