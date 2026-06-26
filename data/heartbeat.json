@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-06-25T03:00:23.873Z",
-  "runId": "adao-allies-20260625030023",
+  "capturedAt": "2026-06-26T03:00:32.154Z",
+  "runId": "adao-allies-20260626030032",
   "status": "ok",
-  "next_expected_run_at": "2026-06-26T04:00:23.873Z",
+  "next_expected_run_at": "2026-06-27T04:00:32.154Z",
   "stats": {
     "ally_count": 2,
     "per_ally": [
@@ -18,9 +18,9 @@
       {
         "slug": "liondao",
         "status": "ok",
-        "registered_count": 69,
+        "registered_count": 70,
         "total_staker_count": 283,
-        "captured": 69,
+        "captured": 70,
         "voting_module_resolved": true
       }
     ]
