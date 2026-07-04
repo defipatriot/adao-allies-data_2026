@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-07-03T03:00:25.992Z",
+  "capturedAt": "2026-07-04T03:00:46.141Z",
   "epoch": {
     "number": 192,
     "starts_at": "2026-06-29T00:00:00.000Z",
     "ends_at": "2026-07-06T00:00:00.000Z",
-    "progress_pct": 58.932869378306876
+    "progress_pct": 73.22191517857142
   },
   "allies": [
     {
