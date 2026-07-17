@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-07-16T03:00:44.158Z",
+  "capturedAt": "2026-07-17T03:00:50.843Z",
   "epoch": {
     "number": 194,
     "starts_at": "2026-07-13T00:00:00.000Z",
     "ends_at": "2026-07-20T00:00:00.000Z",
-    "progress_pct": 44.650159226190475
+    "progress_pct": 58.936978835978834
   },
   "allies": [
     {
@@ -483,7 +483,7 @@
         },
         {
           "address": "terra1qgnzhadyj3cqvk8jrtptcmvsjjywncnj4ada3d",
-          "name": null,
+          "name": "Jetfire",
           "stake_raw": 8,
           "vp_pct_of_dao": 0.28797696184305255
         },
