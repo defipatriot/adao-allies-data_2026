@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-07-22T03:01:05.727Z",
-  "runId": "adao-allies-20260722030105",
+  "capturedAt": "2026-07-23T03:00:51.402Z",
+  "runId": "adao-allies-20260723030051",
   "status": "ok",
-  "next_expected_run_at": "2026-07-23T04:01:05.727Z",
+  "next_expected_run_at": "2026-07-24T04:00:51.402Z",
   "stats": {
     "ally_count": 2,
     "per_ally": [
       {
         "slug": "pixellions",
         "status": "ok",
-        "registered_count": 76,
+        "registered_count": 75,
         "total_staker_count": 289,
-        "captured": 76,
+        "captured": 75,
         "voting_module_resolved": true
       },
       {
