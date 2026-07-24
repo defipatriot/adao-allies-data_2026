@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-07-23T03:00:51.402Z",
+  "capturedAt": "2026-07-24T03:01:06.969Z",
   "epoch": {
     "number": 195,
     "starts_at": "2026-07-20T00:00:00.000Z",
     "ends_at": "2026-07-27T00:00:00.000Z",
-    "progress_pct": 44.6513587962963
+    "progress_pct": 58.93964699074075
   },
   "allies": [
     {
@@ -1245,7 +1245,7 @@
         },
         {
           "address": "terra1kcpara8gj58huh9yn6dj7rxd764desdsrfppfc",
-          "name": null,
+          "name": "Eddy_W",
           "stake_raw": 2,
           "vp_pct_of_dao": 0.07209805335255948
         },
@@ -1593,7 +1593,7 @@
         },
         {
           "address": "terra1k7382eg3sz2r52ajqw8xfcxxlu2uls5ypu3v3v",
-          "name": "DrugsOnINJ",
+          "name": null,
           "stake_raw": 1,
           "vp_pct_of_dao": 0.03604902667627974
         },
