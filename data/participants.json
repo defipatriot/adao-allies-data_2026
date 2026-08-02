@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-08-01T03:01:02.986Z",
+  "capturedAt": "2026-08-02T03:00:59.270Z",
   "epoch": {
     "number": 196,
     "starts_at": "2026-07-27T00:00:00.000Z",
     "ends_at": "2026-08-03T00:00:00.000Z",
-    "progress_pct": 73.2247003968254
+    "progress_pct": 87.50980291005291
   },
   "allies": [
     {
@@ -1245,7 +1245,7 @@
         },
         {
           "address": "terra1kcpara8gj58huh9yn6dj7rxd764desdsrfppfc",
-          "name": "Eddy_W",
+          "name": null,
           "stake_raw": 2,
           "vp_pct_of_dao": 0.07209805335255948
         },
