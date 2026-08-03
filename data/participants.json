@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-08-02T03:00:59.270Z",
+  "capturedAt": "2026-08-03T03:00:52.785Z",
   "epoch": {
-    "number": 196,
-    "starts_at": "2026-07-27T00:00:00.000Z",
-    "ends_at": "2026-08-03T00:00:00.000Z",
-    "progress_pct": 87.50980291005291
+    "number": 197,
+    "starts_at": "2026-08-03T00:00:00.000Z",
+    "ends_at": "2026-08-10T00:00:00.000Z",
+    "progress_pct": 1.7944444444444443
   },
   "allies": [
     {
@@ -1245,7 +1245,7 @@
         },
         {
           "address": "terra1kcpara8gj58huh9yn6dj7rxd764desdsrfppfc",
-          "name": null,
+          "name": "Eddy_W",
           "stake_raw": 2,
           "vp_pct_of_dao": 0.07209805335255948
         },
