@@ -1,27 +1,27 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-08-09T03:00:41.111Z",
-  "runId": "adao-allies-20260809030041",
-  "status": "ok",
-  "next_expected_run_at": "2026-08-10T04:00:41.111Z",
+  "capturedAt": "2026-08-10T03:00:48.562Z",
+  "runId": "adao-allies-20260810030048",
+  "status": "error",
+  "next_expected_run_at": "2026-08-11T04:00:48.562Z",
   "stats": {
     "ally_count": 2,
     "per_ally": [
       {
         "slug": "pixellions",
-        "status": "ok",
-        "registered_count": 76,
-        "total_staker_count": 289,
-        "captured": 76,
-        "voting_module_resolved": true
+        "status": "error",
+        "registered_count": 0,
+        "total_staker_count": 0,
+        "captured": 0,
+        "voting_module_resolved": false
       },
       {
         "slug": "liondao",
-        "status": "ok",
-        "registered_count": 70,
-        "total_staker_count": 283,
-        "captured": 70,
-        "voting_module_resolved": true
+        "status": "error",
+        "registered_count": 0,
+        "total_staker_count": 0,
+        "captured": 0,
+        "voting_module_resolved": false
       }
     ]
   }
