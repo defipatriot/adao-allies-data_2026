@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "capturedAt": "2026-08-11T03:01:08.937Z",
+  "capturedAtUnix": 1786417268937,
+  "epoch": null,
+  "retention": "registered_only",
+  "ally_count": 2,
+  "luna_price_used_usd": null,
+  "allies": [
+    {
+      "slug": "pixellions",
+      "name": "Pixel Lions",
+      "stake_type": "nft",
+      "status": "error",
+      "voting_module": null,
+      "registered_count": 0,
+      "total_staker_count": 0,
+      "members": [],
+      "error": "network-and-prices.json required — aborting"
+    },
+    {
+      "slug": "liondao",
+      "name": "Lion DAO",
+      "stake_type": "cw20",
+      "status": "error",
+      "voting_module": null,
+      "registered_count": 0,
+      "total_staker_count": 0,
+      "members": [],
+      "error": "network-and-prices.json required — aborting"
+    }
+  ]
+}
